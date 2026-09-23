@@ -1,0 +1,35 @@
+# ==========================================
+# ROS 2 Workspace Build Artifacts
+# ==========================================
+rov_project_ete2/rov_db_ws/build/
+rov_project_ete2/rov_db_ws/install/
+rov_project_ete2/rov_db_ws/log/
+rov_project_ete2/build/
+rov_project_ete2/install/
+rov_project_ete2/log/
+build/
+install/
+log/
+# ==========================================
+# Python Virtual Environment
+# ==========================================
+rov_project_ete2/venv/
+
+# ==========================================
+# Media Files & Requested Files
+# ==========================================
+rov_project_ete2/*.mp4
+rov_project_ete2/speech
+
+# ==========================================
+# Missed Files (Recommended to ignore)
+# ==========================================
+# Zip Archives
+rov_project_ete2/rov_syncer.zip
+
+# Python auto-generated cache
+**/__pycache__/
+*.py[cod]
+
+# ROS2 colcon/setup.py generated egg-info
+rov_project_ete2/**/*.egg-info/

@@ -1,0 +1,17 @@
+# ===============================================================================
+# MASTER SUBSEA ROV PIPELINE DEPENDENCIES
+# ===============================================================================
+
+# --- Subsea Video Frame Processing & Optical Extraction ---
+opencv-python>=4.8.0
+
+# --- Database Drivers (PostgreSQL / TimescaleDB / PostGIS) ---
+psycopg2-binary>=2.9.9
+
+# --- Streamlit Web Portal & Spatial Analytics ---
+streamlit>=1.30.0
+pandas>=2.1.0
+plotly>=5.18.0
+folium>=0.15.0
+streamlit-folium>=0.18.0
+reportlab (platypus, lib.pagesizes, lib.colors, lib.styles)
