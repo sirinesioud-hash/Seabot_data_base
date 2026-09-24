@@ -98,6 +98,8 @@ The system operates across three dedicated ROS 2 nodes and a client presentation
 * **Visuals:** Renders interactive dive tracks using Folium maps, displays hydrostatic depth vs seafloor altitude using Plotly line charts (with inverted Y-axes to show depth extending downward), and provides CSV reporting downloads.
 
 ---
+<img width="1854" height="1053" alt="image" src="https://github.com/user-attachments/assets/add445a7-0589-412e-bda5-ec734d77005a" />
+
 
 ## Contributing
 
