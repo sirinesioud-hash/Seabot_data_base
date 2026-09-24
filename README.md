@@ -5,6 +5,12 @@
 ## Description
 
 A real-time subsea telemetry ingestion, spatial-temporal synchronization, and inspection analytics system built under **ROS 2 Jazzy**, **PostgreSQL / PostGIS / TimescaleDB**, and **Streamlit**.
+###  SIMULATION DEMO
+<img width="1854" height="1053" alt="image" src="https://github.com/user-attachments/assets/add445a7-0589-412e-bda5-ec734d77005a" />
+
+###  ENGINEERS DASHBOARD
+<img width="1137" height="399" alt="image" src="https://github.com/user-attachments/assets/018ba328-0b1a-457a-9d2a-76863df927ba" />
+
 
 ### 📌 Executive Overview
 
@@ -98,8 +104,6 @@ The system operates across three dedicated ROS 2 nodes and a client presentation
 * **Visuals:** Renders interactive dive tracks using Folium maps, displays hydrostatic depth vs seafloor altitude using Plotly line charts (with inverted Y-axes to show depth extending downward), and provides CSV reporting downloads.
 
 ---
-<img width="1854" height="1053" alt="image" src="https://github.com/user-attachments/assets/add445a7-0589-412e-bda5-ec734d77005a" />
-
 
 ## Contributing
 
